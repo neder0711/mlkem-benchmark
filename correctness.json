@@ -1,0 +1,46 @@
+{
+  "total_pairs": 50000,
+  "total_failures": 0,
+  "per_run": [
+    {
+      "pairs": 10000,
+      "failures": 0,
+      "modified_ct_raised_error": null,
+      "modified_ct_differs_from_original_secret": true,
+      "modified_ct_deterministic": true,
+      "run": 1
+    },
+    {
+      "pairs": 10000,
+      "failures": 0,
+      "modified_ct_raised_error": null,
+      "modified_ct_differs_from_original_secret": true,
+      "modified_ct_deterministic": true,
+      "run": 2
+    },
+    {
+      "pairs": 10000,
+      "failures": 0,
+      "modified_ct_raised_error": null,
+      "modified_ct_differs_from_original_secret": true,
+      "modified_ct_deterministic": true,
+      "run": 3
+    },
+    {
+      "pairs": 10000,
+      "failures": 0,
+      "modified_ct_raised_error": null,
+      "modified_ct_differs_from_original_secret": true,
+      "modified_ct_deterministic": true,
+      "run": 4
+    },
+    {
+      "pairs": 10000,
+      "failures": 0,
+      "modified_ct_raised_error": null,
+      "modified_ct_differs_from_original_secret": true,
+      "modified_ct_deterministic": true,
+      "run": 5
+    }
+  ]
+}

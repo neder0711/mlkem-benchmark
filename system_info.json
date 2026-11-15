@@ -1,0 +1,17 @@
+{
+  "date_utc": "2026-11-15T17:45:26+00:00",
+  "os": "Windows-11-10.0.26200-SP0",
+  "os_version": "10.0.26200",
+  "machine": "AMD64",
+  "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+  "ram_gb": 15.7,
+  "logical_cpus": 20,
+  "python": "3.15.2",
+  "cryptography": "50.0.2",
+  "openssl": "OpenSSL 4.0.3 29 Sep 2026",
+  "runs": 5,
+  "iterations": 3000,
+  "rsa_keygen_iterations": 30,
+  "correctness_pairs_per_run": 10000,
+  "warmup": 200
+}
